@@ -1,0 +1,15 @@
+{
+  "short_name": "React App",
+  "name": "React Extension",
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'sha256-OIvVecS7ZaC1ivtj0mmJcjA9QDOcFay3UV+kBtk7Rr8='",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "React Ext"
+  },
+  "version": "1.0",
+  "permissions": [
+        "http://localhost:5000/*",
+	"tabs"
+    ]
+}
