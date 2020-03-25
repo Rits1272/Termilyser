@@ -1,7 +1,7 @@
 # TERMILYSER
 Terms and conditions,frictionless
 
-Termilyser is basically a chrome extension made to detect fraus and unfair clauses found in "Terms and conditions" put by different finance companies.
+Termilyser is basically a chrome extension made to detect frauds and unfair clauses found in "Terms and conditions" put by different finance companies.
 
 
 # FEATURES
